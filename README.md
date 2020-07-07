@@ -12,7 +12,7 @@ java -jar payday-0.0.1-SNAPSHOT.jar
 
 Server run on 8080
 
-## Reast API with h2(embed database)
+## Rest API with h2(embed database)
 
 Get Token => default username admin@example.com password=12345
 ```
